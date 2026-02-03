@@ -1,0 +1,5 @@
+click
+requests
+python-dotenv
+aiohttp
+pyinstaller

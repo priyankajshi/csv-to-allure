@@ -1,0 +1,4 @@
+ID,Title,Priority,Tags,Preconditions,Steps
+TC-API-001,Create and retrieve Fruit,High,API;Applicants;CRUD;Smoke,"1. A valid fruitId exists in the system.","1. Build a valid request JSON payload
+2. Send a POST request to /api/scoped/applications/{fruitId}/applicants with the payload.
+3. Verify that the response HTTP status code is 201."
